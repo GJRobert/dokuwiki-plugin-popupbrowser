@@ -1,0 +1,7 @@
+base   popupbrowser
+author G.HS.Robert Ciang
+email  Robertus0617@gmail.com
+date   2017-11-07
+name   popupbrowser plugin
+desc   Like popupviewer, but for external web pages (hopefully images too)
+url    https://github.com/GJRobert/dokuwiki-plugin-popupbrowser
